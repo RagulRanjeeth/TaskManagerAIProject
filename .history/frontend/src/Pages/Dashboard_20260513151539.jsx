@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { getTasks, createTask, deleteTask, updateTask } from "../Api/Tasks";
-import TaskCard from "../Components/TaskCard";
+import TaskCard from "../components/TaskCard";
 
 export default function Dashboard() {
 
