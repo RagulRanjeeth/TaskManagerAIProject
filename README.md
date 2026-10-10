@@ -1,7 +1,7 @@
 # 🚀 Task Manager Dashboard AI
 
 A full-stack **Task Management Web Application** built using **React (Vite)** for the frontend and **Spring Boot** for the backend.  
-It allows users to register, login, and manage their personal tasks efficiently.
+It allows users to manage their personal tasks efficiently.
 
 ---
 
