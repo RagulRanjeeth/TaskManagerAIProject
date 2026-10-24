@@ -11,7 +11,7 @@ import java.util.List;
 @RequestMapping("/api/task")
 @CrossOrigin(origins =
         {"http://localhost:5173",
-                "https://ragulranjeeth-taskmanager.netlify.app"
+         "https://ragulranjeeth-taskmanager.netlify.app"
         })
 public class TaskController {
 
