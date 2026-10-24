@@ -3,7 +3,7 @@
 A full-stack **Task Management Web Application** built using **React (Vite)** for the frontend and **Spring Boot** for the backend.  
 It allows users to manage their personal tasks efficiently.
 
-**Live **
+Live 
 https://ragulranjeeth-taskmanager.netlify.app
 ---
 
